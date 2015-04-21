@@ -1,6 +1,4 @@
 # Effective Java Examples
-
-Effective Java Examples
 =======================
 
 Chapter 02: Creating and Destroying Objects
